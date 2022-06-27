@@ -9,3 +9,5 @@ streamlit.text('🥗 Kale, Spinach & quinoa')
 streamlit.text('🐔 hard boiled egg')
 streamlit.text('🥑🍞 avocado toast')
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
